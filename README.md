@@ -84,4 +84,4 @@ https://github.com/sw4stikaa
 
 ## License
 
-This project is licensed under the MIT Lisence.
+This project is licensed under the MIT License.
